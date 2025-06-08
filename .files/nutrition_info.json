@@ -1,0 +1,242 @@
+{
+    "meal_nutrition": [
+        {
+            "meal_id": "Monday_breakfast_2025-05-12",
+            "meal_name": "Oatmeal with fresh berries and nuts",
+            "calories": 420,
+            "macronutrients": {
+                "proteins": 5.0,
+                "carbohydrates": 55.0,
+                "fats": 10.0
+            },
+            "updated_at": "2025-05-13 00:20:39",
+            "vitamins": {
+                "fiber": "high",
+                "antioxidants": "high"
+            },
+            "notes": "Good source of complex carbohydrates and healthy fats"
+        },
+        {
+            "meal_id": "Monday_lunch_2025-05-12",
+            "meal_name": "Quinoa salad with grilled vegetables and chickpeas",
+            "calories": 450,
+            "macronutrients": {
+                "proteins": 15.0,
+                "carbohydrates": 45.0,
+                "fats": 12.0
+            },
+            "updated_at": "2025-05-13 00:20:53",
+            "vitamins": {
+                "fiber": "high",
+                "iron": "moderate",
+                "vitamin C": "moderate"
+            },
+            "notes": "High in plant protein and fiber"
+        },
+        {
+            "meal_id": "Monday_dinner_2025-05-12",
+            "meal_name": "Baked salmon with roasted potatoes and asparagus",
+            "calories": 520,
+            "macronutrients": {
+                "proteins": 32.0,
+                "carbohydrates": 30.0,
+                "fats": 15.0
+            },
+            "updated_at": "2025-05-13 00:21:18",
+            "vitamins": {
+                "vitamin D": "high",
+                "omega-3": "high",
+                "vitamin A": "moderate"
+            },
+            "notes": "Rich in omega-3 fatty acids and quality protein"
+        },
+        {
+            "meal_id": "Monday_snacks_2025-05-12",
+            "meal_name": "Greek yogurt with honey, Mixed nuts",
+            "calories": 280,
+            "macronutrients": {
+                "proteins": 12.0,
+                "carbohydrates": 20.0,
+                "fats": 18.0
+            },
+            "updated_at": "2025-05-13 00:21:31",
+            "vitamins": {
+                "calcium": "high",
+                "protein": "moderate"
+            },
+            "notes": "Good source of protein, calcium and healthy fats"
+        },
+        {
+            "meal_id": "Tuesday_breakfast_2025-05-12",
+            "meal_name": "Whole grain toast with avocado and eggs",
+            "calories": 380,
+            "macronutrients": {
+                "proteins": 15.0,
+                "carbohydrates": 25.0,
+                "fats": 16.0
+            },
+            "updated_at": "2025-05-13 00:21:42",
+            "vitamins": {
+                "vitamin E": "high",
+                "fiber": "moderate",
+                "protein": "high"
+            },
+            "notes": "Good balance of protein and healthy fats"
+        },
+        {
+            "meal_id": "Tuesday_lunch_2025-05-12",
+            "meal_name": "Vegetable soup with whole grain bread",
+            "calories": 320,
+            "macronutrients": {
+                "proteins": 10.0,
+                "carbohydrates": 35.0,
+                "fats": 5.0
+            },
+            "updated_at": "2025-05-13 00:21:52",
+            "vitamins": {
+                "vitamin A": "high",
+                "vitamin C": "high",
+                "fiber": "high"
+            },
+            "notes": "Low in calories but high in nutrients and fiber"
+        },
+        {
+            "meal_id": "Tuesday_dinner_2025-05-12",
+            "meal_name": "Chicken stir-fry with brown rice and vegetables",
+            "calories": 480,
+            "macronutrients": {
+                "proteins": 30.0,
+                "carbohydrates": 45.0,
+                "fats": 12.0
+            },
+            "updated_at": "2025-05-13 00:22:04",
+            "vitamins": {
+                "vitamin C": "moderate",
+                "B vitamins": "high",
+                "iron": "moderate"
+            },
+            "notes": "Balanced meal with lean protein and complex carbohydrates"
+        },
+        {
+            "meal_id": "Tuesday_snacks_2025-05-12",
+            "meal_name": "Apple slices with peanut butter, Carrot sticks",
+            "calories": 250,
+            "macronutrients": {
+                "proteins": 8.0,
+                "carbohydrates": 25.0,
+                "fats": 14.0
+            },
+            "updated_at": "2025-05-13 00:22:14",
+            "vitamins": {
+                "fiber": "moderate",
+                "vitamin C": "moderate"
+            },
+            "notes": "Good balance of protein, healthy fats and fiber"
+        },
+        {
+            "meal_id": "Wednesday_breakfast_2025-05-12",
+            "meal_name": "Smoothie bowl with banana, spinach, and chia seeds",
+            "calories": 350,
+            "macronutrients": {
+                "proteins": 7.0,
+                "carbohydrates": 40.0,
+                "fats": 10.0
+            },
+            "updated_at": "2025-05-13 00:22:25",
+            "vitamins": {
+                "omega-3": "moderate",
+                "iron": "moderate",
+                "vitamin A": "high",
+                "vitamin C": "high"
+            },
+            "notes": "Nutrient-dense breakfast with greens and healthy fats"
+        },
+        {
+            "meal_id": "Wednesday_lunch_2025-05-12",
+            "meal_name": "Lentil curry with rice",
+            "calories": 420,
+            "macronutrients": {
+                "proteins": 15.0,
+                "carbohydrates": 50.0,
+                "fats": 6.0
+            },
+            "updated_at": "2025-05-13 00:22:37",
+            "vitamins": {
+                "iron": "high",
+                "fiber": "high",
+                "B vitamins": "moderate"
+            },
+            "notes": "High in plant protein and fiber"
+        },
+        {
+            "meal_id": "Wednesday_dinner_2025-05-12",
+            "meal_name": "Whole wheat pasta with tomato sauce and grilled vegetables",
+            "calories": 450,
+            "macronutrients": {
+                "proteins": 12.0,
+                "carbohydrates": 60.0,
+                "fats": 10.0
+            },
+            "updated_at": "2025-05-13 00:22:48",
+            "vitamins": {
+                "vitamin C": "high",
+                "vitamin A": "moderate",
+                "lycopene": "high",
+                "fiber": "moderate"
+            },
+            "notes": "Moderate in carbohydrates with good vegetable content"
+        },
+        {
+            "meal_id": "Wednesday_snacks_2025-05-12",
+            "meal_name": "Hummus with cucumber slices, Orange",
+            "calories": 240,
+            "macronutrients": {
+                "proteins": 10.0,
+                "carbohydrates": 30.0,
+                "fats": 8.0
+            },
+            "updated_at": "2025-05-13 00:23:02",
+            "vitamins": {
+                "vitamin C": "high",
+                "fiber": "moderate",
+                "protein": "moderate"
+            },
+            "notes": "Nutrient-rich snack with protein and vitamin C"
+        },
+        {
+            "meal_id": "Thursday_breakfast_2025-05-12",
+            "meal_name": "Vegetable omelette with whole grain toast",
+            "calories": 390,
+            "macronutrients": {
+                "proteins": 18.0,
+                "carbohydrates": 25.0,
+                "fats": 16.0
+            },
+            "updated_at": "2025-05-13 00:23:13",
+            "vitamins": {
+                "vitamin A": "moderate",
+                "vitamin D": "moderate",
+                "calcium": "moderate",
+                "fiber": "moderate"
+            },
+            "notes": "Protein-rich breakfast with good vegetable content"
+        },
+        {
+            "meal_id": "Thursday_lunch_2025-05-12",
+            "meal_name": "Mexican bowl with brown rice, black beans, corn, and avocado",
+            "calories": 480,
+            "macronutrients": {
+                "proteins": 18.0,
+                "carbohydrates": 55.0,
+                "fats": 15.0
+            },
+            "updated_at": "2025-05-13 00:23:32",
+            "vitamins": {
+                "fiber": "high",
+                "iron": "moderate",
+                "vitamin E": "high"
+            },
+            "notes": "Balanced meal with plant proteins and healthy fats"
+        }
+    ]
+}

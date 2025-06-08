@@ -1,0 +1,100 @@
+{
+    "events": [
+        {
+            "id": "birthday_user_2025",
+            "title": "Sanket's Birthday",
+            "date": "2025-11-20",
+            "description": "Sanket's birthday celebration",
+            "participants": [
+                "Santosh",
+                "Mamta",
+                "Ankit",
+                "Sanket"
+            ]
+        },
+        {
+            "id": "birthday_user_2026",
+            "title": "Sanket's Birthday",
+            "date": "2026-11-20",
+            "description": "Sanket's birthday celebration",
+            "participants": [
+                "Santosh",
+                "Mamta",
+                "Ankit",
+                "Sanket"
+            ]
+        },
+        {
+            "id": "birthday_Santosh_2025",
+            "title": "Santosh's Birthday",
+            "date": "2025-01-01",
+            "description": "Santosh's birthday celebration",
+            "participants": [
+                "Santosh",
+                "Mamta",
+                "Ankit",
+                "Sanket"
+            ]
+        },
+        {
+            "id": "birthday_Santosh_2026",
+            "title": "Santosh's Birthday",
+            "date": "2026-01-01",
+            "description": "Santosh's birthday celebration",
+            "participants": [
+                "Santosh",
+                "Mamta",
+                "Ankit",
+                "Sanket"
+            ]
+        },
+        {
+            "id": "birthday_Mamta_2025",
+            "title": "Mamta's Birthday",
+            "date": "2025-10-10",
+            "description": "Mamta's birthday celebration",
+            "participants": [
+                "Santosh",
+                "Mamta",
+                "Ankit",
+                "Sanket"
+            ]
+        },
+        {
+            "id": "birthday_Mamta_2026",
+            "title": "Mamta's Birthday",
+            "date": "2026-10-10",
+            "description": "Mamta's birthday celebration",
+            "participants": [
+                "Santosh",
+                "Mamta",
+                "Ankit",
+                "Sanket"
+            ]
+        },
+        {
+            "id": "birthday_Ankit_2025",
+            "title": "Ankit's Birthday",
+            "date": "2025-01-18",
+            "description": "Ankit's birthday celebration",
+            "participants": [
+                "Santosh",
+                "Mamta",
+                "Ankit",
+                "Sanket"
+            ]
+        },
+        {
+            "id": "birthday_Ankit_2026",
+            "title": "Ankit's Birthday",
+            "date": "2026-01-18",
+            "description": "Ankit's birthday celebration",
+            "participants": [
+                "Santosh",
+                "Mamta",
+                "Ankit",
+                "Sanket"
+            ]
+        }
+    ]
+}

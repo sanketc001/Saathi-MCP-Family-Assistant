@@ -1,0 +1,28 @@
+{
+    "members": [
+        {
+            "name": "Santosh",
+            "relationship": "father",
+            "birthday": "1975-01-01",
+            "notes": "Sanket's father"
+        },
+        {
+            "name": "Mamta",
+            "relationship": "mother",
+            "birthday": "1980-10-10",
+            "notes": "Sanket's mother"
+        },
+        {
+            "name": "Ankit",
+            "relationship": "brother",
+            "birthday": "1999-01-18",
+            "notes": "Sanket's brother"
+        }
+    ],
+    "user": {
+        "name": "Sanket",
+        "age": 23,
+        "birthday": "2001-11-20",
+        "notes": "Birth date needs confirmation"
+    }
+}
