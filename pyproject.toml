@@ -1,7 +1,7 @@
 [project]
-name = "mcp-server-demo"
+name = "saathi-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "MCP server that gives LLM clients tools for running a household"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
