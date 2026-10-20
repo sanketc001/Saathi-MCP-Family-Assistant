@@ -15,6 +15,11 @@ import datetime
 import json
 from imdb import Cinemagoer
 from pathlib import Path
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 import mcp.types as types
 from youtube_search import YoutubeSearch
 import smtplib
