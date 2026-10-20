@@ -15,3 +15,24 @@ token.pickle
 .env
 .env.*
 !.env.example
+
+# Personal data written at runtime
+.files/
+files/*
+!files/.gitkeep
+yfinance.cache
+*.cache
+chroma_db/
+storage/
+data/*.pdf
+
+# Notebooks and scratch
+.ipynb_checkpoints/
+Untitled*.ipynb
+tutorial.py
+
+# Editor / local config
+.vscode/
+.idea/
+.github/instructions/
+Saathi/
